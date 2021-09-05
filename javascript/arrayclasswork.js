@@ -60,7 +60,7 @@ students.forEach(stud=>{
     }else{
         console.log('You have to repeat :'+percentage)
     }
-     
+     //console.log(percentage)
  })
 console.table(students)
 
@@ -70,6 +70,7 @@ console.table(students)
 // console.log('you got for a government scholarship ' + students[i][4])
  
 // }
+//https://github.com/ukeloveth/arrayClasswork.git
 //
 
 
